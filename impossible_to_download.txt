@@ -1,5 +1,5 @@
 If there is a professional next to you, please show him this code:
-Error code 403
+Error code 403/404
 This file isn't downloadable.
 
 ---
@@ -10,6 +10,7 @@ Here are some reasons:
 - This file is restricted.
 - This file is under another license(like All rights reserved)
 - This file doesn't exist.
+- This file is incomplete.
 
 You may visit Ryan Chen's Wattpad page for more description for this kind of error.
 Thank you,
