@@ -1,103 +1,168 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>RyanPresentsDownload - Download Ryan Original Presents books here</title>
-<link rel="icon" href="favicon.jpeg">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ryan Chen's Official Downloading</title>
+    <style>
+        /* 全局黑色背景 */
+        body {
+            background-color: #000000;
+            color: #ffffff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 20px;
+        }
+
+        /* 顶部欢迎语 */
+        header {
+            text-align: center;
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 40px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #333;
+        }
+
+        /* 书本容器 */
+        .book-container {
+            display: flex;
+            flex-direction: row;
+            border: 1px solid #222;
+            margin-bottom: 20px;
+            padding: 20px;
+            background-color: #0a0a0a;
+            border-radius: 8px;
+            gap: 30px;
+        }
+
+        /* 左侧封面 */
+        .book-cover {
+            width: 200px;
+            flex-shrink: 0;
+        }
+        .book-cover img {
+            width: 100%;
+            height: auto;
+            border-radius: 4px;
+            box-shadow: 0 4px 8px rgba(255,255,255,0.1);
+        }
+
+        /* 右侧信息 */
+        .book-info {
+            flex-grow: 1;
+        }
+        .book-info h2 {
+            margin-top: 0;
+            color: #00ffcc; /* 标题带点赛博绿 */
+        }
+        .info-line {
+            margin: 8px 0;
+            font-size: 15px;
+            color: #aaa;
+        }
+        .info-line strong {
+            color: #fff;
+        }
+
+        /* 绿色按钮样式 */
+        .btn {
+            display: inline-block;
+            background-color: #006644;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 8px 15px;
+            margin: 5px 10px 5px 0;
+            border-radius: 4px;
+            font-size: 14px;
+            font-weight: bold;
+            transition: all 0.2s ease-in-out;
+            border: 1px solid #00ffcc;
+        }
+
+        /* 鼠标悬浮，按钮浮起来一点，并变亮 */
+        .btn:hover {
+            background-color: #00ffcc;
+            color: #000000;
+            transform: translateY(-3px); /* 向上浮起 */
+            box-shadow: 0 4px 12px rgba(0, 255, 204, 0.4); /* 发光阴影 */
+        }
+
+        /* 适配手机屏幕（左右排版变成上下排版） */
+        @media (max-width: 600px) {
+            .book-container {
+                flex-direction: column;
+            }
+            .book-cover {
+                width: 100%;
+                text-align: center;
+            }
+            .book-cover img {
+                width: 50%;
+            }
+        }
+    </style>
 </head>
 <body>
-<marquee>
-  Welcome to RyanChen's official download page - 0$ EPUB Downloading - Visit https://www.wattpad.com/user/RyanChen-xyz
-</marquee>
-<h1>Download The Grid World(Completed-EN)</h1>
-<p style="color: blue;">This series was abandonned October on 27, 2026.</p>
-<details>
-<summary>Informations</summary>
-<pre>
-Type: Short sci-fi novel
-Rating : PG-13
-Available formats: Epub
-Audiobooks: No
-</pre>
-</details>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/TheGridWorld-vol1/thegridworldvol1.epub" download>The Grid World Volume 1 Completed_epub</a>
-<br>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/TheGridWorld-vol2trailer/vol2trailer.txt" download>The Grid World Volume 2 Trailer Completed_epub</a>
-<br>
-<h1>Download Technologia Informations(Ongoing-FR)</h1>
-<details>
-<summary>Informations</summary>
-<pre>
-Type: Informations and Guide
-Rating: G
-Available formats: N/A
-Audiobooks: No
-</pre>
-</details>
-<a href="impossible_to_download.txt" download>This file is under All rights reserved protection, so it isn't downloadable.</a>
-<h1>Internet World(Completed-EN)</h1>
-<details>
-<summary>Informations</summary>
-<pre>
-Type: Sci-fi short novel
-Rating: PG-13
-Available formats: N/A
-Audiobooks: Yes
-</pre>
-</details>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finished/internetworld_finished.epub" download>Internet World Completed_epub</a>
-<br>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio/internetworld.mp3" download>Internet World Completed_mp3</a>
-<br>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio_endsong/ghost.in.the.wires.mp3" download>Internet World Completed End Song_mp3</a>
-<h1>Collection Interdit aux peureux(FR)</h1>
-<h2>P.E.R.D.U(Completed-FR)</h2>
-<details>
-<summary>Informations</summary>
-<pre>
-Type: Psychological violence short novel
-Rating: PG-13
-Available formats: Epub
-Audiobooks: No
-</pre>
-</details>
-<p style="color: blue;">This book was abandonned on November 9, 2026.</p>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/PERDU-6nov2026/perdu_6nov2026.epub" download>P.E.R.D.U Completed Updated November6, 2026_epub</a>
-<h2>Il reste 99 nuits(Completed-FR)</h2>
-<details>
-<summary>Informations</summary>
-<pre>
-⚠️Warning: This book is in the Rating: Restricted(R)
-Type: Physical violence and psychological violence short novel
-Rating: R
-Available formats: Epub and ZIP
-Audiobooks: Yes
-</pre>
-</details>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Iltereste99nuits-10nov2026/ilreste99nuits_finished.epub" download>Il reste 99 nuits Completed_epub</a>
-<br>
-<a href="https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Iltereste99nuits-10nov2026audio/audiobook.zip" download>Il reste 99 nuits Completed_zip Audio(MP3s in ZIP)</a>
-<hr>
-<footer>
-<p>©Ryan Presents 2026 All rights reserved</p>
-<br>
-<details>
-<summary>FAQ❓</summary>
-<h3>How to download a book?</h3>
-The book can be downloaded directly in this page by clicking the blue link. You cannot really read it online(It is a future feature) For audiobooks, you will get a zip. For Ongoing books, they are zip. For Completed books, they are epub.
-<h3>Is it legal for commercial use?</h3>
-<p>The answer is NO. You cannot use these books for commercial use under CC BY-NC-ND. DMCA may apply if you use it for commercial.</p>
-<h3>Where will be Audiobook Hear-It-Outloud-Directly(in browser)?</h3>
-<p>The feature "Hear-it-outloud-directly" will be available in China Mainland, Hong Kong, Russia, Pakistan and Canada.</p>
-<h3>Can we read it directly in browser?</h3>
-<p>The feature "Read-it-now" will be available on May 5~25, 2027.</p>
-<h3>Abandonned books?</h3>
-<p>There are several abandonned books in the bookshelf. They will remain available to download, but you can't find it anymore in Wattpad.</p>
-<h3>Will you revive anbonned books?</h3>
-<p>Theorically, yes. But in real life, no. Because I am not an author, I use my own free time to write books so I don't really have time to think again and again to revive or not.</p>
-</details>
-</footer>
-<!-- Why are you looking at my webpage's HTML code? 911 There is a hacker here! -->
+
+    <header>Welcome to Ryan Chen's Webpage Official downloading.</header>
+
+    <div id="books-list">
+        <!-- JavaScript 会把书单自动填进这里 -->
+    </div>
+
+    <script>
+        // 读取 JSON 文件
+        fetch('books-info.json')
+            .then(response => response.json())
+            .then(data => {
+                const bookList = document.getElementById('books-list');
+
+                data.forEach(book => {
+                    // 如果数据为空，则显示 N/A
+                    const status = book.status || "N/A";
+                    const rating = book.rating || "N/A";
+                    const mature = book.mature || "N/A";
+                    const audiobook = book.audiobook || "N/A";
+                    const readOutLoud = book.readOutLoud || "N/A";
+
+                    // 生成按钮 HTML（如果 JSON 里没有链接，就不显示按钮）
+                    let buttonsHTML = '';
+                    if (book.epub) buttonsHTML += `<a href="${book.epub}" class="btn" download>Book epub download</a>`;
+                    if (book.mp3_audiobook) buttonsHTML += `<a href="${book.mp3_audiobook}" class="btn" download>ReadOutLoud-Book mp3 download</a>`;
+                    if (book.mp3_soundtrack) buttonsHTML += `<a href="${book.mp3_soundtrack}" class="btn" download>Book mp3 Soundtrack download</a>`;
+                    if (book.wattpad) buttonsHTML += `<a href="${book.wattpad}" class="btn" target="_blank">Read book in Wattpad</a>`;
+
+                    // 拼装每本书的 HTML
+                    const bookHTML = `
+                        <div class="book-container">
+                            <div class="book-cover">
+                                <img src="${book.cover}" alt="${book.title} Cover">
+                            </div>
+                            <div class="book-info">
+                                <h2>${book.title}</h2>
+                                
+                                <div class="info-line"><strong>Audiobook:</strong> ${audiobook}</div>
+                                <div class="info-line"><strong>ReadOutLoud:</strong> ${readOutLoud}</div>
+                                <div class="info-line"><strong>Status:</strong> ${status}</div>
+                                <div class="info-line"><strong>Rating:</strong> ${rating}</div>
+                                <div class="info-line"><strong>Mature:</strong> ${mature}</div>
+                                
+                                <div style="margin-top: 15px;">
+                                    ${buttonsHTML}
+                                </div>
+                            </div>
+                        </div>
+                    `;
+
+                    bookList.innerHTML += bookHTML;
+                });
+            })
+            .catch(error => {
+                console.error('Error loading JSON:', error);
+                document.getElementById('books-list').innerHTML = "<p style='color:red;'>Please contact ryan2015dor@hotmail.com because an error occured. Thank you.</p>";
+            });
+    </script>
+
 </body>
 </html>
