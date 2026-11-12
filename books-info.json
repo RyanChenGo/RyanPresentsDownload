@@ -1,0 +1,54 @@
+[
+  {
+    "title": "The Grid World",
+    "cover": "covers/cover-thegridworld_vol1.jpeg",
+    "status": "Completed CC-BY NC-ND",
+    "rating": "PG",
+    "mature": "No",
+    "audiobook": "No",
+    "readOutLoud": "No",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/TheGridWorld-vol1/thegridworldvol1.epub",
+    "mp3_audiobook": "",
+    "mp3_soundtrack": "",
+    "wattpad": ""
+  },
+  {
+    "title": "Technologia Informations",
+    "cover": "covers/cover-technologiainformations.png",
+    "status": "Ongoing All rights reserved",
+    "rating": "G",
+    "mature": "No",
+    "audiobook": "No",
+    "readOutLoud": "No",
+    "epub": "",
+    "mp3_audiobook": "",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/418106515-technologia-informations"
+  },
+  {
+    "title": "Il reste 99 nuits",
+    "cover": "covers/cover.jpeg",
+    "status": "Completed CC-BY NC-ND",
+    "rating": "R",
+    "mature": "No",
+    "audiobook": "Yes",
+    "readOutLoud": "For future update",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Iltereste99nuits-10nov2026/ilreste99nuits_finished.epub",
+    "mp3_audiobook": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Iltereste99nuits-10nov2026audio/audiobook.zip",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/419174136-il-reste-99-nuits-avant-ton-mort"
+  },
+  {
+    "title": "Internet World",
+    "cover": "covers/cover-internetworld.jpeg",
+    "status": "Completed CC-BY NC-ND",
+    "rating": "PG-13",
+    "mature": "No",
+    "audiobook": "Yes",
+    "readOutLoud": "For future update",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finished/internetworld_finished.epub",
+    "mp3_audiobook": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio/internetworld.mp3",
+    "mp3_soundtrack": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio_endsong/ghost.in.the.wires.mp3",
+    "wattpad": "https://www.wattpad.com/story/419436717-internet-world"
+  }
+]
