@@ -50,5 +50,18 @@
     "mp3_audiobook": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio/internetworld.mp3",
     "mp3_soundtrack": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/Internetworld-finishedaudio_endsong/ghost.in.the.wires.mp3",
     "wattpad": "https://www.wattpad.com/story/419436717-internet-world"
+  },
+  {
+    "title": "Future 9999",
+    "cover": "covers/cover-future9999.jpeg",
+    "status": "Completed CC BY-NC-ND",
+    "rating": "PG-13",
+    "mature": "No",
+    "audiobook": "Yes",
+    "readOutLoud": "For future update",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/future9999/future9999_completed.epub",
+    "mp3_audiobook": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/future9999-audio/future9999.mp3",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/419565773-future-9999"
   }
 ]
