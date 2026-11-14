@@ -63,5 +63,18 @@
     "mp3_audiobook": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/future9999-audio/future9999.mp3",
     "mp3_soundtrack": "",
     "wattpad": "https://www.wattpad.com/story/419565773-future-9999"
+  },
+  {
+    "title": "Him, Alex",
+    "cover": "covers/alex-cover-safe.jpg",
+    "status": "Ongoing CC BY-NC-ND",
+    "rating": "NC-17",
+    "mature": "Yes",
+    "audiobook": "No",
+    "readOutLoud": "For future update",
+    "epub": "",
+    "mp3_audiobook": "",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/419668910-him-alex"
   }
 ]
