@@ -76,5 +76,18 @@
     "mp3_audiobook": "",
     "mp3_soundtrack": "",
     "wattpad": "https://www.wattpad.com/story/419668910-him-alex"
+  },
+  {
+    "title": "Blackhole",
+    "cover": "covers/cover-blackholescifi.png",
+    "status": "Completed CC BY-NC-ND",
+    "rating": "PG-13",
+    "mature": "No",
+    "audiobook": "No",
+    "readOutLoud": "For future update",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/blackhole/blackhole-completed.epub",
+    "mp3_audiobook": "",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/419752026-blackhole"
   }
 ]
