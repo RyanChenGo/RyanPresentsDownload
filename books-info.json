@@ -89,5 +89,17 @@
     "mp3_audiobook": "",
     "mp3_soundtrack": "",
     "wattpad": "https://www.wattpad.com/story/419752026-blackhole"
+  },
+  {
+    "title": "Escape Earth",
+    "cover": "covers/cover-escape.png",
+    "status": "Completed CC BY NC ND",
+    "rating": "PG-13",
+    "mature": "No",
+    "readOutLoud": "For future update",
+    "epub": "https://github.com/RyanChenGo/RyanPresentsDownload/releases/download/escapeearth/escapeearth-completed.epub",
+    "mp3_audiobook": "",
+    "mp3_soundtrack": "",
+    "wattpad": "https://www.wattpad.com/story/420186125-escape-earth"
   }
 ]
